@@ -1,3 +1,7 @@
-# EDA-of-Fandango-ratings-
-If you are planning on going out to see a movie, how well can you trust online reviews and ratings? Especially if the same company showing the rating also makes money by selling movie tickets. Do they have a bias towards rating movies higher than they should be rated?
-The goal is to check if Fandango's ratings had a bias towards rating movies better to sell more tickets.
+# Fandango Rating Exploratory Data Analysis
+Back in 2015, FiveThirtyEight published an article entitled "Be Suspicious Of Online Movie Ratings, Especially Fandango’s". The article concluded that Fandango tends to overrate thier movies. In other words, the number of stars that the website shows for a certain movie is often higher than the true rating for the same movie.
+Our goal is to validate these results through a detailed EDA for the given data set.
+
+To that end, the Analysis consists of two main parts:
+  Exploring Fandango Displayed Scores versus True User Ratings
+  Comparison of Fandango Ratings to Other Sites
